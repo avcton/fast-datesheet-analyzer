@@ -2,7 +2,7 @@
 > This utility allows the students of [*FAST*](https://www.nu.edu.pk/) to input their campus date sheets and dig out their relevant subjects from it.
 
 ## Deployment
-The app can be found at: [datesheet-analyzer.streamlit.app/](https://datesheet-analyzer.streamlit.app)
+The app can be found at: [datesheet-analyzer.streamlit.app](https://datesheet-analyzer.streamlit.app/)
 
 ## Motivation
 Since the provided datesheets in [FAST NU](https://www.nu.edu.pk/) are not segregated into sections or batches, it proves really hard for students to analyze it and extract out their relevant listings. Also, these date sheets get updated periodically over the time and thus this data extraction turns into a mere redundant task. This application is put forth to deal with those time consuming extraction tasks by providing the user a simple inerface and relevant subject options to query out from.
